@@ -2,9 +2,15 @@
 
 ## Change Log
 
-### [ Version 0.1.0 ]
+### [ Version 0.0.2 ]
 
-#### Added
+Fixed
+
+* upload
+
+### [ Version 0.0.1 ]
+
+Added
 
 * "tauri-apps.tauri-vscode",
 * "esbenp.prettier-vscode",

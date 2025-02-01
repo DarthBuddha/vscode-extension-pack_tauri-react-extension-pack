@@ -1,11 +1,31 @@
 {
   "name": "tauri-react-extension-pack",
-  "displayName": "Tauri React Extension Pack",
+  "displayName": "Darth Buddha's Tauri React Extension Pack",
   "description": "A Tauri React TypeScript extension pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "DarthBuddha",
+  "preview": false,
+  "icon": "icon.png",
+  "readme": "README.md",
+  "author": {
+    "name": "Lucas T Marshall"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarthBuddha/vscode-extension-pack_tauri-react-extension-pack"
+  },
+  "homepage": "https://github.com/DarthBuddha/vscode-extension-pack_tauri-react-extension-pack",
+  "keywords": [
+    "extension packs",
+    "rust",
+    "react",
+    "typescript",
+    "tauri"
+  ],
   "categories": [
     "Extension Packs"
   ],
